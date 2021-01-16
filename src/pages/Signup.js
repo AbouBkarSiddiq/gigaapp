@@ -6,7 +6,7 @@ const  Signup = () => {
     return (
         <div className='min-h-screen w-screen flex justify-center items-center flex-col lg:flex-row lg:space-around'>
         <div className='lg:mr-2 lg:ml-12'>
-        <img src={image} className='h-screen w-full'/>
+        <img src={image} alt='' className='h-screen w-full'/>
         </div>
         <div className='mt-4 flex flex-col lg:w-full lg:mx-8'>
           <h1 className='font-bold'>Hi! Welcome</h1>
